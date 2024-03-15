@@ -40,8 +40,9 @@
     margin-top: 10px;
     font-style: italic;
 }
-.My_photo {
+.my_photo {
     width: 200px;
+    
 .game_box {
     display: flex;
     justify-content: space-around;
